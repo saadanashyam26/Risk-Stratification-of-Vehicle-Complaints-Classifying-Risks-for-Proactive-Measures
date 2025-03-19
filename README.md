@@ -4,7 +4,7 @@
 
 The **Risk Stratification of Vehicle Complaints** project aims to enhance vehicle safety by leveraging **Machine Learning (ML) and Natural Language Processing (NLP)** to classify consumer complaints into risk categories. By analyzing **historical complaints, defect investigations, and recall datasets**, this project provides a data-driven approach to improve regulatory decision-making and predict future vehicle recalls.
 
-This project was completed as part of **DSCI 5260** under the guidance of **Dr. Sameh Shamroukh** at the **G. Brint Ryan College of Business, UNT**.
+
 
 ---
 
